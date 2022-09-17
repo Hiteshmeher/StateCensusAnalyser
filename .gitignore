@@ -1,5 +1,10 @@
 # Compiled class file
 *.class
+*.classpath
+*.project
+*.gradle
+build/gradle
+build
 
 # Log file
 *.log
